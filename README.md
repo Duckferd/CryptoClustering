@@ -1,7 +1,7 @@
 # CryptoClustering
 Module  19 Challenge- CryptoClustering
 
-Project Description: This is the assignment submission for challenge #19- Leaflet Challenge. This assignment involves usage of K-means clustering to determine if cryptocurrencies are affected by 24 hour or 7 day price changes. 
+Project Description: This is the assignment submission for challenge #19- CryptoClustering Challenge. This assignment involves usage of K-means clustering to determine if cryptocurrencies are affected by 24 hour or 7 day price changes. 
 
 Getting Started and Installation: Open Crypto_clustering.ipynb and run the script. Ensure that the raw data is in the resources folder.
 
